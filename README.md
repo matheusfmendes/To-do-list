@@ -29,7 +29,7 @@ Siga estes passos para executar o projeto localmente:
 
 1. Clone este repositório:
 ```bash
-  git clone https://github.com/matheusfmendes/To-do-list
+  git clone https://github.com/matheusfmendes/to-do-list
 ```
 
 2. Acesse o diretório do projeto:
